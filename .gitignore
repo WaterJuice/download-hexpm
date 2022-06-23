@@ -1,4 +1,5 @@
-/repo.hex.pm
+/repo.hex.pm/
+/hexpm.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
